@@ -1,5 +1,5 @@
 ## Mateusz Dzięgielewski
-I am third year's student at University of Business and Economics in Wrocław, Poland and I pursue career in data science. I am extremely passionate about analyzing data, investigating it and making predictions out of it.
+I am third-year student at Wrocław University of Business and Economics, Poland and I pursue career in data science. I am extremely passionate about analyzing data, investigating it and making predictions out of it.
 ### This is my data science portfolio - you can see the overview of my GitHub projects here.
 *To see more details click on project's title.*
 
